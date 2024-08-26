@@ -1304,7 +1304,11 @@ color:#6F727B;
     position: relative;left:-20px;
   }
   .Destination{
-    position: relative;left:-10px;top:1000px;
+    position: relative;left:-10px;top:1200px;
+  }
+
+  .decor1{
+    display: none;
   }
   .dtxt-2{
     font-size: 30px;
