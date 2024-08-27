@@ -1265,11 +1265,13 @@ color:#6F727B;
   }
 
   .logo{
-    position: relative;top:-20px;
+    position: relative;top:-20px;right: -30px;
   }
 
   .features{
     position: relative;right: 15px;
+    width: 200px;
+    align-items: center;
   }
 
   .features .each{
@@ -1301,7 +1303,10 @@ color:#6F727B;
     width: 100px;
   }
   .Hero-txt{
-    position: relative;left:50px;
+    position: relative;left:50px;left: 80px;
+    padding: 10px;
+    align-items: center;
+    width: 300px;
   }
 
   .arrange{
@@ -1314,10 +1319,10 @@ color:#6F727B;
   }
   
   .category{
-    position: relative;left:-20px;
+    position: relative;left:10px;
   }
   .Destination{
-    position: relative;left:-10px;top:1200px;
+    position: relative;left:25px;top:1200px;
   }
 
   .decor1{
@@ -1332,7 +1337,7 @@ color:#6F727B;
   }
 
   .Trip{
-    position: relative;left: 50px;top:3050px;
+    position: relative;left: 80px;top:3050px;
   }
 
   .pdt{
@@ -1348,7 +1353,7 @@ color:#6F727B;
   }
 
   .Test{
-    position: relative;left: -30px;top:3900px;
+    position: relative;left: 40px;top:3900px;
   }
 
   .Test-t{
@@ -1364,7 +1369,7 @@ color:#6F727B;
   .Sponsors{
     width: 300px;
     
-    position: relative;left: 40px;top:4300px;
+    position: relative;left: 70px;top:4300px;
     align-items: center;
     display: flex;
     flex-direction: column;
