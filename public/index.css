@@ -1253,6 +1253,11 @@ color:#6F727B;
 
 @media only screen and (max-width: 460px) {
 
+  body,html{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
 
   .play{
     font-size: 12px;
